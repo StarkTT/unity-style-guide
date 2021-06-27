@@ -1,1 +1,1 @@
-# unity-style-guide
+# Unity Style Guide
